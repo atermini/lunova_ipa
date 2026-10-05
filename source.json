@@ -1,0 +1,38 @@
+{
+  "name": "Lunova",
+  "subtitle": "lunova app for cineaste people",
+  "description": "Lunova app for cineaste people",
+  "iconURL": "https://ibb.co/4wWNZD1w",
+  "headerURL": "https://ibb.co/4wWNZD1w",
+  "website": "https://deventis.it",
+  "apps": [
+    {
+      "name": "Lunova",
+      "bundleIdentifier": "it.lunova.app",
+      "developerName": "Lunova",
+      "localizedDescription": "Lunova App for cineaste people",
+      "iconURL": "https://ibb.co/4wWNZD1w",
+      "category": "entertainment",
+      "beta": true,
+      "screenshots": [
+        "https://ibb.co/s9BssSXj"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-05T09:19:17Z",
+          "downloadURL": "https://github.com/atermini/lunova_ipa/raw/refs/heads/main/Lunova-1.0-unsigned.ipa",
+          "size": 15055411,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Lunova si collega al backend locale durante lo sviluppo."
+        }
+      }
+    }
+  ]
+}
