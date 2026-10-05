@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-10-05T19:04:37Z",
+          "localizedDescription": "Nuova modalità Shittle, confronto delle valutazioni nei profili e aggiornamenti a community e filtri del catalogo.",
+          "downloadURL": "https://github.com/atermini/lunova_ipa/raw/refs/heads/main/Lunova-1.0.1-unsigned.ipa",
+          "size": 15310623,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-10-05T09:19:17Z",
