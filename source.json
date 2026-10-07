@@ -1,23 +1,32 @@
 {
-  "name": "Lunova",
-  "subtitle": "lunova app for cineaste people",
-  "description": "Lunova app for cineaste people",
-  "iconURL": "https://ibb.co/4wWNZD1w",
-  "headerURL": "https://ibb.co/4wWNZD1w",
+  "name": "Kinora",
+  "subtitle": "Il cinema, secondo i tuoi gusti.",
+  "description": "La source ufficiale di Kinora, precedentemente Lunova. Scopri film, salva la tua lista, condividi le tue valutazioni e trova il prossimo film da vedere.",
+  "iconURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/assets/kinora-1.1/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/assets/kinora-1.1/login.png",
   "website": "https://deventis.it",
   "apps": [
     {
-      "name": "Lunova",
+      "name": "Kinora",
       "bundleIdentifier": "it.lunova.app",
-      "developerName": "Lunova",
-      "localizedDescription": "Lunova App for cineaste people",
-      "iconURL": "https://ibb.co/4wWNZD1w",
+      "developerName": "Kinora",
+      "localizedDescription": "Kinora, precedentemente Lunova, è l’app per chi ama il cinema. Scopri film e consigli personali, organizza la tua lista, valuta ciò che hai visto e confronta i tuoi gusti con la community.",
+      "iconURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/assets/kinora-1.1/icon.png",
       "category": "entertainment",
       "beta": true,
       "screenshots": [
-        "https://ibb.co/s9BssSXj"
+        "https://raw.githubusercontent.com/atermini/lunova_ipa/main/assets/kinora-1.1/login.png"
       ],
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "3",
+          "date": "2026-10-07T08:47:23Z",
+          "localizedDescription": "Lunova diventa Kinora: nuovo nome e nuova icona, Cineforum e aggiornamenti alla community, miglioramenti alla navigazione e alle prestazioni. Continuità con l’app precedente per sessione, libreria e widget.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1-unsigned.ipa",
+          "size": 15636557,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.0.1",
           "buildVersion": "2",
@@ -39,7 +48,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Lunova si collega al backend locale durante lo sviluppo."
+          "NSLocalNetworkUsageDescription": "Kinora si collega al backend locale durante lo sviluppo."
         }
       }
     }
