@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.5",
+          "buildVersion": "8",
+          "date": "2026-10-08T21:41:36Z",
+          "localizedDescription": "Home rinnovata con nuove grafiche e immagini editoriali mantenute durante rotazione e riapertura. Navigazione e filtri più chiari, accesso e recupero password migliorati. Caricamento dei poster più rapido, valutazioni e sincronizzazione della libreria più affidabili. Aggiornamenti a profilo, community e Cineforum.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.5-unsigned.ipa",
+          "size": 13284700,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.4",
           "buildVersion": "7",
           "date": "2026-10-07T15:52:43Z",
