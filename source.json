@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.10",
+          "buildVersion": "13",
+          "date": "2026-10-09T15:33:56Z",
+          "localizedDescription": "Nuovo pulsante Piattaforme in alto nella schermata di scelta del genere. Apre una lista compatta con nomi e loghi dei provider disponibili in Italia, consente di selezionare più piattaforme e mostra quante ne hai scelte. Tutte le piattaforme azzera il filtro. Le selezioni vengono mantenute quando cerchi un altro film o torni a cambiare i filtri. Migliorata la leggibilità anche con testo grande.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.10-unsigned.ipa",
+          "size": 13530898,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.9",
           "buildVersion": "12",
           "date": "2026-10-09T15:28:36Z",
