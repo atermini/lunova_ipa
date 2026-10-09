@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.8",
+          "buildVersion": "11",
+          "date": "2026-10-09T15:02:05Z",
+          "localizedDescription": "Nuovo pull to refresh con un ciak compatto, senza sfondo, che si apre durante il trascinamento e si chiude in sincronia con la vibrazione e l’avvio dell’aggiornamento. Feedback uniforme nelle schermate Home, Movies, ricerca, profili, Community e Cineforum. Ogni gesto avvia un solo refresh; i trascinamenti brevi non aggiornano i dati.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.8-unsigned.ipa",
+          "size": 13486396,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.7",
           "buildVersion": "10",
           "date": "2026-10-09T10:02:34Z",
