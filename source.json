@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.9",
+          "buildVersion": "12",
+          "date": "2026-10-09T15:28:36Z",
+          "localizedDescription": "Scegli facoltativamente le tue piattaforme streaming direttamente nella schermata dei generi, con una riga compatta di icone. Sono disponibili solo i provider attivi in Italia. Selezionando Netflix o altre piattaforme, i consigli includono soltanto film disponibili con il relativo abbonamento in Italia. Puoi selezionare più piattaforme o tornare a tutte; la scelta viene mantenuta quando cerchi un altro film.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.9-unsigned.ipa",
+          "size": 13530838,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.8",
           "buildVersion": "11",
           "date": "2026-10-09T15:02:05Z",
