@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.11",
+          "buildVersion": "14",
+          "date": "2026-10-10T09:55:51Z",
+          "localizedDescription": "Nuove liste personali: crea raccolte di film, aggiungili dalla scheda e scegli se pubblicarle nella community. Profilo con modalità liste salvata tra le riaperture. La Home mostra i film aggiunti alle liste delle persone che segui. Nuove impostazioni per privacy, piattaforme streaming e preferenze dell’app. Miglioramenti a navigazione, valutazioni, accesso e consigli tra persone.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.11-unsigned.ipa",
+          "size": 14034871,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.10",
           "buildVersion": "13",
           "date": "2026-10-09T15:33:56Z",
