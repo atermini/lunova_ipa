@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.15",
+          "buildVersion": "18",
+          "date": "2026-10-10T20:44:42Z",
+          "localizedDescription": "Il film preferito e lo sfondo sono ora salvati sull’account e sincronizzati tra dispositivi. Il film preferito è visibile nei profili della Community anche senza seguire la persona. Le scelte locali già presenti vengono importate senza sovrascrivere una scelta salvata sul server. Migliorata la gestione degli errori durante il salvataggio.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.15-unsigned.ipa",
+          "size": 63195687,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.14",
           "buildVersion": "17",
           "date": "2026-10-10T20:26:40Z",
