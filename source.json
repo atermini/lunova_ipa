@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.12",
+          "buildVersion": "15",
+          "date": "2026-10-10T19:16:54Z",
+          "localizedDescription": "Nuova splash Kinora in stop motion: sagome animate, onda verde, logo e scritte a macchina da scrivere. La sequenza completa di circa 4,7 secondi viene riprodotta a ogni nuovo avvio, anche sulle installazioni già utilizzate. Font inclusi per il funzionamento offline e finale statico con Riduci movimento.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.12-unsigned.ipa",
+          "size": 9930198,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.11",
           "buildVersion": "14",
           "date": "2026-10-10T09:55:51Z",
@@ -129,7 +138,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Kinora si collega al backend locale durante lo sviluppo."
+          "NSLocalNetworkUsageDescription": "Kinora si collega al server di sviluppo sulla tua rete locale durante le prove dell’app."
         }
       }
     }
