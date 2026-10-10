@@ -19,6 +19,15 @@
       ],
       "versions": [
         {
+          "version": "1.1.13",
+          "buildVersion": "16",
+          "date": "2026-10-10T19:27:14Z",
+          "localizedDescription": "Nuovo video di sfondo nella schermata di accesso, riprodotto integralmente in loop. Aggiornata anche l’immagine statica mostrata con Riduci movimento.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.13-unsigned.ipa",
+          "size": 59662930,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.12",
           "buildVersion": "15",
           "date": "2026-10-10T19:16:54Z",
