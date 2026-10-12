@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.18",
-          "buildVersion": "21",
-          "date": "2026-10-12T07:54:14Z",
-          "localizedDescription": "Ora puoi salvare un film nella watchlist durante le valutazioni e passare al successivo senza assegnare un voto. Nella scoperta film, Salta avanza tra tutti e tre i risultati senza salvarli né valutarli. Aggiornati colori e schermate della scoperta, riepilogo delle valutazioni e illustrazioni della community. Migliorata la gestione della dimensione del testo nelle impostazioni.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.18-unsigned.ipa",
-          "size": 63591102,
+          "version": "1.1.19",
+          "buildVersion": "22",
+          "date": "2026-10-12T14:11:54Z",
+          "localizedDescription": "Liste multiple ora si trova in Film e scoperte come le altre impostazioni, con icona, stato e schermata dedicata. Puoi attivare o disattivare l’opzione e confermare con Salva; le liste esistenti restano conservate.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.19-unsigned.ipa",
+          "size": 63707179,
           "minOSVersion": "26.0"
         }
       ],
