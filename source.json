@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.19",
-          "buildVersion": "22",
-          "date": "2026-10-12T14:11:54Z",
-          "localizedDescription": "Liste multiple ora si trova in Film e scoperte come le altre impostazioni, con icona, stato e schermata dedicata. Puoi attivare o disattivare l’opzione e confermare con Salva; le liste esistenti restano conservate.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.19-unsigned.ipa",
-          "size": 63707179,
+          "version": "1.1.20",
+          "buildVersion": "23",
+          "date": "2026-10-12T20:02:53Z",
+          "localizedDescription": "Navigazione più fluida e schede film più rapide. Scoperte con filtri aggiornati e scelta dell’intelligenza artificiale nelle impostazioni. Miglioramenti a community, profili, liste e caricamento dei contenuti. Onboarding con 100 film proposti e ricerca di altri titoli per raggiungere 24 valutazioni di film visti.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.20-unsigned.ipa",
+          "size": 63821040,
           "minOSVersion": "26.0"
         }
       ],
