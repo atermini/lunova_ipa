@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.16",
-          "buildVersion": "19",
-          "date": "2026-10-11T21:24:28Z",
-          "localizedDescription": "Nuova pagina dei tre film consigliati, con sfondo verde animato in stop motion e spiegazione espandibile. Già visto apre un dialog Liquid Glass per votare e passare al film successivo. Da vedere salva direttamente nella lista; Scheda film apre i dettagli. Caricamento aggiornato con STEP 40 e animazioni a 12 fotogrammi al secondo.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.16-unsigned.ipa",
-          "size": 63265285,
+          "version": "1.1.17",
+          "buildVersion": "20",
+          "date": "2026-10-12T06:25:21Z",
+          "localizedDescription": "Nuovo pannello per consigliare film agli amici, ispirato alla condivisione di Instagram e realizzato in Liquid Glass: ricerca, avatar, selezione dei destinatari e messaggio facoltativo. Nella scheda film il pulsante Consiglia prende il posto di Cerca, con una transizione più fluida in apertura e chiusura. Migliorata la gestione del ritorno alla ricerca e dello swipe indietro annullato.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.17-unsigned.ipa",
+          "size": 63355098,
           "minOSVersion": "26.0"
         }
       ],
