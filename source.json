@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.17",
-          "buildVersion": "20",
-          "date": "2026-10-12T06:25:21Z",
-          "localizedDescription": "Nuovo pannello per consigliare film agli amici, ispirato alla condivisione di Instagram e realizzato in Liquid Glass: ricerca, avatar, selezione dei destinatari e messaggio facoltativo. Nella scheda film il pulsante Consiglia prende il posto di Cerca, con una transizione più fluida in apertura e chiusura. Migliorata la gestione del ritorno alla ricerca e dello swipe indietro annullato.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.17-unsigned.ipa",
-          "size": 63355098,
+          "version": "1.1.18",
+          "buildVersion": "21",
+          "date": "2026-10-12T07:54:14Z",
+          "localizedDescription": "Ora puoi salvare un film nella watchlist durante le valutazioni e passare al successivo senza assegnare un voto. Nella scoperta film, Salta avanza tra tutti e tre i risultati senza salvarli né valutarli. Aggiornati colori e schermate della scoperta, riepilogo delle valutazioni e illustrazioni della community. Migliorata la gestione della dimensione del testo nelle impostazioni.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.18-unsigned.ipa",
+          "size": 63591102,
           "minOSVersion": "26.0"
         }
       ],
