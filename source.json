@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.21",
-          "buildVersion": "24",
-          "date": "2026-10-14T13:55:52Z",
-          "localizedDescription": "Consigli Kinora disponibili di default anche senza intelligenza artificiale, con verifica delle connessioni ai provider IA. Selettori nativi Liquid Glass per ricerca e catalogo, con aggiornamento dei dati più affidabile. Caricamento più efficiente di libreria, community e profili; elenco dei film visti caricato progressivamente durante lo scorrimento. Miglioramenti a sincronizzazione, valutazioni e stabilità.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.21-unsigned.ipa",
-          "size": 64173728,
+          "version": "1.1.22",
+          "buildVersion": "25",
+          "date": "2026-10-14T14:28:42Z",
+          "localizedDescription": "Movies: la selezione Popolari è sostituita da In arrivo, con le prossime uscite in Italia da TMDB. Le selezioni del catalogo mantengono i film già caricati anche dopo la riapertura dell’app e si aggiornano con il refresh manuale. Miglioramenti al caricamento e alla cache del catalogo.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.22-unsigned.ipa",
+          "size": 64197597,
           "minOSVersion": "26.0"
         }
       ],
