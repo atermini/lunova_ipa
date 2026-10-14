@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.1.20",
-          "buildVersion": "23",
-          "date": "2026-10-12T20:02:53Z",
-          "localizedDescription": "Navigazione più fluida e schede film più rapide. Scoperte con filtri aggiornati e scelta dell’intelligenza artificiale nelle impostazioni. Miglioramenti a community, profili, liste e caricamento dei contenuti. Onboarding con 100 film proposti e ricerca di altri titoli per raggiungere 24 valutazioni di film visti.",
-          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.20-unsigned.ipa",
-          "size": 63821040,
+          "version": "1.1.21",
+          "buildVersion": "24",
+          "date": "2026-10-14T13:55:52Z",
+          "localizedDescription": "Consigli Kinora disponibili di default anche senza intelligenza artificiale, con verifica delle connessioni ai provider IA. Selettori nativi Liquid Glass per ricerca e catalogo, con aggiornamento dei dati più affidabile. Caricamento più efficiente di libreria, community e profili; elenco dei film visti caricato progressivamente durante lo scorrimento. Miglioramenti a sincronizzazione, valutazioni e stabilità.",
+          "downloadURL": "https://raw.githubusercontent.com/atermini/lunova_ipa/main/Kinora-1.1.21-unsigned.ipa",
+          "size": 64173728,
           "minOSVersion": "26.0"
         }
       ],
